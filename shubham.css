@@ -1,0 +1,44 @@
+.class{
+ color: brown;
+ font-size: 30px;
+}
+.head{
+    display: block;
+}
+.div{
+    display: block;
+}
+.text{
+    font-size: 25px;
+    color: brown;
+    font-style: italic;
+}
+.li{
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.h2{
+    font-size: 25px;
+    color: brown;
+    font-style: italic;
+}
+.free{
+    font-size: 25px;
+    color: brown;
+    font-style: italic;
+}
+.ol{
+    display: block;
+   padding-left: 20px;
+    color: brown;
+    font-size: 20px;
+}
+.ul {
+    font-size: 20px;
+    color: brown;
+    letter-spacing: 0.1cm;
+    padding-left: 20px;
+}
+.para{
+    color: rgb(189, 28, 28);
+}
